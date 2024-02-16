@@ -1,0 +1,12 @@
+issues reservation pagina
+- na selecteren datum is de format foutief => mm/dd/yyyy maar is dd/mm/yyyy
+- van datum kan in het verleden liggen
+- van datum kan na de end datum liggen
+- end datum kan in het verleden liggen
+- aantal kinderen en volwassenen kunnen een negatief getal zijn
+- king size room wordt niet goed weergegeven in de bevestiging
+- niet verplicht om alle velden in te vullen
+- aantal volwassen zou min 1 moeten zijn
+- bij keuze van special room is start en end date omgewisseld
+- zowel bij het bevestigen als het annuleren van de reservatie is de reservatie gelukt (melding)
+- vanuit reservatie klikken op contact pagina brengt jou naar de home page
